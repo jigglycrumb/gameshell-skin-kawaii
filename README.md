@@ -34,7 +34,7 @@ Reboot the gameshell:
 
 In the skin folder `~/apps/launcher/skin`, remove the symlink you created before:
 
-`rm default``
+`rm default`
 
 Then create a new one pointing to the original skin:
 
