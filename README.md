@@ -4,15 +4,14 @@ A kawaii skin for the Gameshell launcher
 
 ## Screenshots
 
-![capture_01](https://user-images.githubusercontent.com/1476865/43688996-b089c6d8-98f3-11e8-86a0-c0079eb5da59.png)
-![capture_02](https://user-images.githubusercontent.com/1476865/43688997-b0a04aa2-98f3-11e8-881e-7b2aba41c9ea.png)
-![capture_03](https://user-images.githubusercontent.com/1476865/43688998-b0b700bc-98f3-11e8-8de4-53d211513ac6.png)
-![capture_04](https://user-images.githubusercontent.com/1476865/43688999-b0cd93b8-98f3-11e8-832f-e50b5a206373.png)
-![capture_05](https://user-images.githubusercontent.com/1476865/43689000-b0e3b562-98f3-11e8-90cb-2aaa11177afd.png)
-![capture_06](https://user-images.githubusercontent.com/1476865/43689001-b0fae43a-98f3-11e8-8a5d-eef5b992a8cb.png)
-![capture_07](https://user-images.githubusercontent.com/1476865/43689002-b1105cfc-98f3-11e8-888a-79a64f812d1d.png)
-![capture_08](https://user-images.githubusercontent.com/1476865/43689003-b125c326-98f3-11e8-9538-9f2f3d02ddfa.png)
-![capture_09](https://user-images.githubusercontent.com/1476865/43689004-b13b3be8-98f3-11e8-99fa-259ed0b7aaff.png)
+![capture_01_01](https://user-images.githubusercontent.com/1476865/45191608-9d37cc00-b244-11e8-9a9e-220d1e425b91.png)
+![capture_01_02](https://user-images.githubusercontent.com/1476865/45191609-9d37cc00-b244-11e8-8462-ade223a88f11.png)
+![capture_01_03](https://user-images.githubusercontent.com/1476865/45191610-9d37cc00-b244-11e8-84b6-6c1d5a08a7ce.png)
+![capture_01_04](https://user-images.githubusercontent.com/1476865/45191611-9d37cc00-b244-11e8-8a0f-659fb0f5d253.png)
+![capture_01_05](https://user-images.githubusercontent.com/1476865/45191613-9d37cc00-b244-11e8-9601-4d167b08463e.png)
+![capture_01_06](https://user-images.githubusercontent.com/1476865/45191614-9d37cc00-b244-11e8-91b1-98a7641b87db.png)
+![capture_01_07](https://user-images.githubusercontent.com/1476865/45191615-9dd06280-b244-11e8-8570-644a7eacccef.png)
+
 
 ## Installation
 
