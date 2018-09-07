@@ -1,4 +1,4 @@
-# cpi-skin-kawaii
+# gameshell-skin-kawaii
 
 A kawaii skin for the Gameshell launcher
 
@@ -17,9 +17,9 @@ A kawaii skin for the Gameshell launcher
 
 1.  SSH into your Gameshell
 2.  `cd ~/apps/launcher/skin`
-3.  `git clone https://github.com/hpcodecraft/cpi-skin-kawaii.git`
+3.  `git clone https://github.com/hpcodecraft/gameshell-skin-kawaii.git`
 4.  optional - give the folder a nicer name
-    `mv cpi-skin-kawaii kawaii`
+    `mv gameshell-skin-kawaii kawaii`
 
 The skin is now installed and ready to use. ٩(^‿^)۶
 
@@ -35,7 +35,7 @@ Remove the original:
 
 Activate the new skin by creating a symlink:
 
-`ln -s kawaii default`
+`ln -s gameshell-skin-kawaii default`
 
 Reboot the gameshell:
 
