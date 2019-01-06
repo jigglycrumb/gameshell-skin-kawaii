@@ -12,7 +12,6 @@ A kawaii skin for the Gameshell launcher
 ![capture_01_06](https://user-images.githubusercontent.com/1476865/45191614-9d37cc00-b244-11e8-91b1-98a7641b87db.png)
 ![capture_01_07](https://user-images.githubusercontent.com/1476865/45191615-9dd06280-b244-11e8-8570-644a7eacccef.png)
 
-
 ## Installation
 
 1.  SSH into your Gameshell
@@ -55,3 +54,8 @@ Reboot the Gameshell.
 
 ε(´סּ︵סּ`)з
 
+## Notes
+
+Most of the icons are recolored versions of the original ones, I used the Photoshop hue/saturation tool (Cmd+U) to color them, using these settings:
+
+![Photoshop settings](https://user-images.githubusercontent.com/1476865/50736917-60182200-11c3-11e9-9989-32202ef4c2ae.png)
