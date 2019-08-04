@@ -7,9 +7,11 @@ fi
 
 cd mods
 if [ ! -d gameshell-skin-kawaii ]; then
-  git clone https://github.com/hpcodecraft/gameshell-skin-kawai.git
+  git clone https://github.com/hpcodecraft/gameshell-skin-kawaii.git
 fi
 
-cd gameshell-skin-kawai
+cd gameshell-skin-kawaii
 git pull
 ./install.sh
+
+cd /home/cpi
