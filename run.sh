@@ -13,5 +13,3 @@ fi
 cd gameshell-skin-kawaii
 git pull
 ./install.sh
-
-cd /home/cpi
