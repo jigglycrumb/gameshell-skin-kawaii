@@ -14,8 +14,8 @@ A kawaii skin for the Gameshell launcher
 
 ## Installation
 
-1. Download or clone the repository
-2. Copy the folder `kawaii` to `~/cpi/skins`
+1. SSH into your Gameshell
+2. Run `bash <(curl -s https://raw.githubusercontent.com/hpcodecraft/gameshell-skin-kawaii/master/run.sh)`
 3. On your Gameshell, go to Settings->Themes, scan and select "kawaii"
 
 ## Notes
