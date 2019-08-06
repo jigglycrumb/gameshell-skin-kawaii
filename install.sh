@@ -14,7 +14,7 @@ printf "${GREEN}Please choose your keymap: (x)box or (s)nes${NC}\n"
 
 read USER_INPUT
 
-cd "${SKINS_DIR}/sys.py/gameshell/footbar_icons"
+cd "${SKINS_DIR}/kawaii/sys.py/gameshell/footbar_icons"
 
 if [ "${USER_INPUT}" == "x" ]; then
   ln -s footbar-xbox.png footbar.png
