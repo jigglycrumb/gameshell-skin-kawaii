@@ -17,11 +17,13 @@ read USER_INPUT
 cd "${SKINS_DIR}/kawaii/sys.py/gameshell/footbar_icons"
 
 if [ "${USER_INPUT}" == "x" ]; then
+  printf "${GREEN}Installing Xbox keymap${NC}\n"
   ln -s footbar-xbox.png footbar.png
 elif [ "${USER_INPUT}" == "s" ]; then
+  printf "${GREEN}Installing SNES keymap${NC}\n"
   ln -s footbar-snes.png footbar.png
 else
-  echo "Unknown option, installing xbox keymap"
+  printf "${GREEN}Unkown option, installing Xbox keymap${NC}\n"
   ln -s footbar-xbox.png footbar.png
 fi
 
